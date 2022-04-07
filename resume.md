@@ -26,13 +26,18 @@ Currently attending the University of Washington as a third year Geography major
 [Covid-19 and Front Line Work in King County](https://storymaps.arcgis.com/stories/0ea4c602e3034494a791326029e53465)
 
 ```
-A project using ESRI StoryMAps showing the likelihood of frontline work within King County during the COVID-19 pandemic. The likelihood of work was measured using a stanardized index of demographic factors that displayed statically higher percentages of workers. 
+A project using ESRI StoryMAps showing the likelihood of frontline work within King
+County during the COVID-19 pandemic. The likelihood of work was measured using a
+stanardized index of demographic factors that displayed statically higher percentages
+of workers. 
 ```
 
 [The Economic Impact of the Seattle Fish Industry](https://docs.google.com/presentation/d/1li6eUtbfDap1TjRA9Bth8ljRHh5tr93yhMgVRrlSWH4/edit#slide=id.p)
 
 ```
-A research project and presenation on how the fish industry in Seattle plays part in the global economy. Highlights the history of the industry in Seattle, qualitative imapcts, quantitative impacts, and future trends.
+A research project and presenation on how the fish industry in Seattle plays part in
+the global economy. Highlights the history of the industry in Seattle, qualitative
+imapcts, quantitative impacts, and future trends.
 ```
 
 ## Skills 
