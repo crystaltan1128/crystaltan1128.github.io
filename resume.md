@@ -8,19 +8,19 @@ Student at the University of Washington with experience in data analysis and dat
 
 # Work Experience (only last 10 years)
 
-*Seattle Fudge*
+## Seattle Fudge
 
 Took the orders of customers, answered questions or concerns, handled money, and served their orders as cashier.
 
-## Education
+# Education
 
-*University of Washington (Seattle WA)*
+## University of Washington (Seattle WA)
 
 2019 - present
 
 Currently attending the University of Washington as a third year Geography major with a concentration in data science and a Mathematics minor.
 
-## Projects
+# Projects
 
 *Covid-19 and Front Line Work in King County*
 
@@ -31,7 +31,7 @@ Link: https://storymaps.arcgis.com/stories/0ea4c602e3034494a791326029e53465
 
 A research project and presenation on how the fish industry in Seattle plays part in the global economy. Highlights the history of the industry in Seattle, qualitative imapcts, quantitative impacts, and future trends.
 
-## Skills 
+# Skills 
 
 - Exceeds in communication and working with/ around others
 - Able to proficiently use GIS mapping programs such as ArcGIS Pro and QGIS
